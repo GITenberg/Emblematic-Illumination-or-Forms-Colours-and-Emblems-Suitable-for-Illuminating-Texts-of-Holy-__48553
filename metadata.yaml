@@ -1,10 +1,14 @@
 _repo: Emblematic-Illumination-or-Forms-Colours-and-Emblems-Suitable-for-Illuminating-Texts-of-Holy-__48553
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Redgrave, Frances Margaret
       gutenberg_agent_id: '44855'
       url: http://www.gutenberg.org/2009/agents/44855
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -15,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48553#Emblematic-Illumination-or-Forms-Colours-and-Emblems-Suitable-for-Illuminating-Texts-of-Holy-_
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
