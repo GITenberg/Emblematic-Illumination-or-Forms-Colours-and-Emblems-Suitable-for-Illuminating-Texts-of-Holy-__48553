@@ -29,6 +29,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Emblematic Illumination; or Forms, Colours and Emblems
 
   Suitable for Illuminating Texts of Holy Scripture in Large
